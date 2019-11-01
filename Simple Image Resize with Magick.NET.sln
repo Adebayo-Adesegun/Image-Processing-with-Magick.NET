@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Image Resize with Magick.NET", "Simple Image Resize with Magick.NET\Simple Image Resize with Magick.NET.csproj", "{35A6E166-A7DB-4342-BB3B-60732452BEF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A6E166-A7DB-4342-BB3B-60732452BEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A6E166-A7DB-4342-BB3B-60732452BEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A6E166-A7DB-4342-BB3B-60732452BEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A6E166-A7DB-4342-BB3B-60732452BEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F21E2A81-BB62-4A02-9E5E-8D1CA867232E}
+	EndGlobalSection
+EndGlobal
